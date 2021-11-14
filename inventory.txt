@@ -1,3 +1,5 @@
 Este es el primer trabajo de programacion de carlos alegria
 
 voy a hacer un programa de inventario
+
+empezando por tomar los datos de u archivo de excel 

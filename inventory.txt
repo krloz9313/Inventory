@@ -1,6 +1,7 @@
 Este es el primer trabajo de programacion de carlos alegria
 
 voy a crear un programa de inventario
+estoy emocionado por empezar
 
 empezando por tomar los datos de un archivo de excel 
 tendre que aprender a usar git para hacer un sistema de repositorio

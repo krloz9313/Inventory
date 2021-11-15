@@ -1,0 +1,13 @@
+body
+{
+    color: gray;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+#container
+{
+    width: 70%;
+    padding: 1em;
+    text-align: left;
+    border: 1px solid white;
+}
